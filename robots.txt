@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://KUSHALITD.github.io/docs-otwzq6/sitemap.xml
